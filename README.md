@@ -1,4 +1,4 @@
-### Hi there 👋 my twitter@ dafeixia
+### Hi there 👋 my twitter @dafeixia
 
 <!--
 **dafeixia/dafeixia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
